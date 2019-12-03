@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xuejun&#39;s blog</title>
+  
+  <subtitle>风尘仆仆，终有归途</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://alanxue666.github.io/"/>
+  <updated>2019-12-03T14:25:31.000Z</updated>
+  <id>https://alanxue666.github.io/</id>
+  
+  <author>
+    <name>xuejun</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学会使用双拼</title>
+    <link href="https://alanxue666.github.io/2019/12/03/xue-hui-shi-yong-shuang-pin/"/>
+    <id>https://alanxue666.github.io/2019/12/03/xue-hui-shi-yong-shuang-pin/</id>
+    <published>2019-12-03T14:25:31.000Z</published>
+    <updated>2019-12-03T14:25:31.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;学习使用双拼&quot;&gt;&lt;a href=&quot;#学习使用双拼&quot; class=&quot;headerlink&quot; title=&quot;学习使用双拼&quot;&gt;&lt;/a&gt;学习使用双拼&lt;/h2&gt;&lt;blockquote&gt;
+&lt;h3 id=&quot;双拼可提高打字速率&quot;&gt;&lt;a href=&quot;#双拼可提高打字速率&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="-记录" scheme="https://alanxue666.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="-双拼" scheme="https://alanxue666.github.io/tags/%E5%8F%8C%E6%8B%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown基本使用语法</title>
+    <link href="https://alanxue666.github.io/2019/12/03/markdown-ji-ben-shi-yong-yu-fa/"/>
+    <id>https://alanxue666.github.io/2019/12/03/markdown-ji-ben-shi-yong-yu-fa/</id>
+    <published>2019-12-03T13:36:15.000Z</published>
+    <updated>2019-12-03T13:46:14.719Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Markdown的基本语法&quot;&gt;&lt;a href=&quot;#Markdown的基本语法&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="-学习笔记" scheme="https://alanxue666.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="-Markdown" scheme="https://alanxue666.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>c语言进阶提高</title>
+    <link href="https://alanxue666.github.io/2019/11/27/c-yu-yan-ti-gao-jin-jie-0/"/>
+    <id>https://alanxue666.github.io/2019/11/27/c-yu-yan-ti-gao-jin-jie-0/</id>
+    <published>2019-11-26T16:00:00.000Z</published>
+    <updated>2019-12-03T13:27:19.324Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;c/s:clinet/server&lt;br&gt;b/s:浏览器和服务器&lt;br&gt;###寄存器与运算器&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="-编程学习" scheme="https://alanxue666.github.io/categories/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="-每日学习 -c进阶" scheme="https://alanxue666.github.io/tags/%E6%AF%8F%E6%97%A5%E5%AD%A6%E4%B9%A0-c%E8%BF%9B%E9%98%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git 学习笔记</title>
+    <link href="https://alanxue666.github.io/2019/11/11/git-xue-xi-bi-ji/"/>
+    <id>https://alanxue666.github.io/2019/11/11/git-xue-xi-bi-ji/</id>
+    <published>2019-11-11T10:09:17.000Z</published>
+    <updated>2019-12-03T13:28:39.509Z</updated>
+    
+    <summary type="html">
+    
+      文章描述
+    
+    </summary>
+    
+      <category term="工具软件入坑" scheme="https://alanxue666.github.io/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6%E5%85%A5%E5%9D%91/"/>
+    
+    
+      <category term="-git" scheme="https://alanxue666.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>my first-blog</title>
+    <link href="https://alanxue666.github.io/2019/11/11/my-first-blog/"/>
+    <id>https://alanxue666.github.io/2019/11/11/my-first-blog/</id>
+    <published>2019-11-10T18:38:17.000Z</published>
+    <updated>2019-11-27T04:01:40.948Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;##today is 11.11.I establish a website.&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+     
+        
+      
+    
+    </summary>
+    
+      <category term="记录" scheme="https://alanxue666.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="first" scheme="https://alanxue666.github.io/tags/first/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站记录</title>
+    <link href="https://alanxue666.github.io/2019/11/11/jian-zhan-ji-lu/"/>
+    <id>https://alanxue666.github.io/2019/11/11/jian-zhan-ji-lu/</id>
+    <published>2019-11-10T16:00:00.000Z</published>
+    <updated>2019-12-03T13:44:03.320Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;##记录一下这次建站历程&lt;/p&gt;
+&lt;p&gt;其实这并不是我第一次使用hexo+GitHub建立博客了。半年前就早有打算，也确实建成了，但还很简陋，许多配置都还不全，后来想改个主题，结果彻底搞崩了。就又重新搭建了新的博客。&lt;/p&gt;
+&lt;p&gt;新博客是11月11日搭好并开始运行的（-·
+        
+      
+    
+    </summary>
+    
+      <category term="-记录" scheme="https://alanxue666.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="-建站" scheme="https://alanxue666.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书报告</title>
+    <link href="https://alanxue666.github.io/2019/05/26/du-shu-bao-gao/"/>
+    <id>https://alanxue666.github.io/2019/05/26/du-shu-bao-gao/</id>
+    <published>2019-05-26T03:54:04.000Z</published>
+    <updated>2019-11-27T04:05:49.595Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;####前言&lt;br&gt; 
+        
+      
+    
+    </summary>
+    
+      <category term="阅读" scheme="https://alanxue666.github.io/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+      <category term="读书报告" scheme="https://alanxue666.github.io/tags/%E8%AF%BB%E4%B9%A6%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书摘要</title>
+    <link href="https://alanxue666.github.io/2019/05/23/du-shu-zhai-yao/"/>
+    <id>https://alanxue666.github.io/2019/05/23/du-shu-zhai-yao/</id>
+    <published>2019-05-23T15:48:27.000Z</published>
+    <updated>2019-12-03T13:48:07.658Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#This is my fiest bloy.Thank you!&lt;br&gt;*mkk&lt;br&gt;[我在知乎上的一个回答]（&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="摘要" scheme="https://alanxue666.github.io/categories/%E6%91%98%E8%A6%81/"/>
+    
+    
+      <category term="-摘要" scheme="https://alanxue666.github.io/tags/%E6%91%98%E8%A6%81/"/>
+    
+  </entry>
+  
+</feed>

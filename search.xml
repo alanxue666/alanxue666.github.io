@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>学会使用双拼</title>
+      <link href="/2019/12/03/xue-hui-shi-yong-shuang-pin/"/>
+      <url>/2019/12/03/xue-hui-shi-yong-shuang-pin/</url>
+      
+        <content type="html"><![CDATA[<h2 id="学习使用双拼"><a href="#学习使用双拼" class="headerlink" title="学习使用双拼"></a>学习使用双拼</h2><blockquote><h3 id="双拼可提高打字速率"><a href="#双拼可提高打字速率" class="headerlink" title="双拼可提高打字速率"></a>双拼可提高打字速率</h3></blockquote><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> -记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -双拼 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>markdown基本使用语法</title>
+      <link href="/2019/12/03/markdown-ji-ben-shi-yong-yu-fa/"/>
+      <url>/2019/12/03/markdown-ji-ben-shi-yong-yu-fa/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Markdown的基本语法"><a href="#Markdown的基本语法" class="headerlink" title="Markdown的基本语法"></a>Markdown的基本语法</h2><blockquote><p>说明：Markdown是一种非常适合于写作的语法，它使你不必过于在乎排版格式，专注于内容的创作。一下简单罗列出了Markdown的语法。</p></blockquote><h3 id="1-1-标题：（-的多少代表标题大小）"><a href="#1-1-标题：（-的多少代表标题大小）" class="headerlink" title="1.1 #标题：（#的多少代表标题大小）"></a>1.1 #标题：（#的多少代表标题大小）</h3><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h3 id="1-2引用：在文本前加大于号-gt-即可"><a href="#1-2引用：在文本前加大于号-gt-即可" class="headerlink" title="1.2引用：在文本前加大于号>即可"></a>1.2引用：在文本前加大于号&gt;即可</h3><blockquote><p>一级引用</p><blockquote><p>二级引用</p><blockquote><p>三级引用  </p></blockquote></blockquote></blockquote><h3 id="1-3列表："><a href="#1-3列表：" class="headerlink" title="1.3列表："></a>1.3列表：</h3><p>A.无序列表  </p><blockquote><p>在文字前面加上-或*即可   </p></blockquote><ul><li>我是第一行  </li><li>我是第二行  </li><li>我是第三行  </li></ul><p>B.有序列表  </p><blockquote><p>直接在文字前加1.2.3.符号  </p></blockquote><ol><li><p>第一行  </p></li><li><p>第二行  </p></li><li><p>第三行<br>###注意在-，*，1.，和文字间要加一个空格 </p></li></ol><h3 id="1-4图片和链接"><a href="#1-4图片和链接" class="headerlink" title="1.4图片和链接"></a>1.4图片和链接</h3><p>   插入图片与链接的语法很像，区别在于一个！号  </p><blockquote><ol><li>图片为：![名称](链接)  </li><li>链接为： [名称](链接)<br>示例：<br>https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="<img src="" alt="">  </li></ol></blockquote><h3 id="1-5粗体与斜体"><a href="#1-5粗体与斜体" class="headerlink" title="1.5粗体与斜体"></a>1.5粗体与斜体</h3><p>Markown的粗体与斜体也挺简单 </p><blockquote><p>粗体：两个<em>包含一段文本<br>斜体：一个<em>包含一段文本<br>例：这里是*</em> 粗体 *<em>，这里是</em>斜体</em>  </p></blockquote><h3 id="1-6表格"><a href="#1-6表格" class="headerlink" title="1.6表格"></a>1.6表格</h3><blockquote><table><thead><tr><th>时间</th><th align="center">任务</th><th align="right">完成情况</th></tr></thead><tbody><tr><td>第一天</td><td align="center">学习</td><td align="right">完成</td></tr><tr><td>第二天</td><td align="center">学习</td><td align="right">完成</td></tr></tbody></table></blockquote><p>效果如下：</p><table><thead><tr><th>时间</th><th align="center">任务</th><th align="right">完成情况</th></tr></thead><tbody><tr><td>第一天</td><td align="center">学习</td><td align="right">完成</td></tr><tr><td>第二天</td><td align="center">学习</td><td align="right">完成</td></tr></tbody></table><h3 id="1-7代码框"><a href="#1-7代码框" class="headerlink" title="1.7代码框"></a>1.7代码框</h3><p>使用连续三个反引号按键1前面那个符号  </p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line"> #include&lt;stdio.h&gt;  </span><br><span class="line"> int main () </span><br><span class="line">{</span><br><span class="line">return 0;</span><br><span class="line"></span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><h3 id="1-8分割线"><a href="#1-8分割线" class="headerlink" title="1.8分割线"></a>1.8分割线</h3><p>在前面加三个<strong>*即可<br>例：&gt; *</strong></p><hr><h3 id="1-9转义字符"><a href="#1-9转义字符" class="headerlink" title="1.9转义字符"></a>1.9转义字符</h3><blockquote><p>\反斜杠<br>`反引号<br>*星号<br>_下划线<br>{}大括号<br>[]中括号<br>()小括号<br>#井号<br>.英文句号<br>!感叹号</p></blockquote><h3 id="1-10快捷键"><a href="#1-10快捷键" class="headerlink" title="1.10快捷键"></a>1.10快捷键</h3><blockquote><p>ctrl+1  一级标题<br>ctrl+2  二级标题<br>…<br>ctrl+shift+o  有序列表<br>ctrl+u  无序列表<br>ctrl+g  插入图片<br>ctrl+l  插入链接<br>ctrl+B  粗体<br>ctrl+I  斜体<br>ctrl+Q  引用<br>ctrl+K  代码块<br>f5启用实时预览<br>f6启用浏览器预览  </p></blockquote><h4 id="特别注意：空格问题"><a href="#特别注意：空格问题" class="headerlink" title="特别注意：空格问题"></a>特别注意：空格问题</h4><p>Markdown语法换行需在结尾至少输入两个空格  </p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> -学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>c语言进阶提高</title>
+      <link href="/2019/11/27/c-yu-yan-ti-gao-jin-jie-0/"/>
+      <url>/2019/11/27/c-yu-yan-ti-gao-jin-jie-0/</url>
+      
+        <content type="html"><![CDATA[<p>c/s:clinet/server<br>b/s:浏览器和服务器<br>###寄存器与运算器</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> -编程学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -每日学习 -c进阶 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git 学习笔记</title>
+      <link href="/2019/11/11/git-xue-xi-bi-ji/"/>
+      <url>/2019/11/11/git-xue-xi-bi-ji/</url>
+      
+        <content type="html"><![CDATA[<h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>git 命令：</p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line"></span><br><span class="line">$mkdir learnigit //新建目录</span><br><span class="line"></span><br><span class="line">$git init //初始化这个目录变成git可以管理的仓库</span><br></pre></td></tr></tbody></table></figure><p>###把文件提交到仓库</p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line"></span><br><span class="line">$git add 文件名</span><br><span class="line"></span><br><span class="line">$git add . //把所有的文件都添加到仓库</span><br><span class="line"></span><br><span class="line">$git commit -m "本次提交说明"</span><br></pre></td></tr></tbody></table></figure><p>###版本退回</p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">$git status  //查看仓库状态</span><br><span class="line">$git diff 文件名 //产看修改内容</span><br><span class="line"></span><br><span class="line">$git log  //查看提交日志</span><br><span class="line"></span><br><span class="line">$cat 文件名 //查看文件内容</span><br></pre></td></tr></tbody></table></figure><p>###从远程克隆库</p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line"></span><br><span class="line">$git clone git@github.com:你的GitHub账号/gitskills.git</span><br></pre></td></tr></tbody></table></figure><p>###配置sshkey</p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line"></span><br><span class="line">$ ssh -T git@github.com # 注意邮箱地址不用改</span><br><span class="line">$ git config --global user.name "liuxianan"// 你的github用户名，非昵称</span><br><span class="line">$ git config --global user.email  "xxx@qq.com"// 填写你的github注册邮箱</span><br></pre></td></tr></tbody></table></figure><p>###hexo 相关命令</p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line"></span><br><span class="line">$ hexo g # 生成</span><br><span class="line">$ hexo s # 启动服务,本地预览</span><br><span class="line">hexo s -g #生成并本地预览</span><br><span class="line">hexo d -g #生成并上传</span><br><span class="line">hexo new "postName" #新建文章</span><br><span class="line">hexo new page "pageName" #新建页面</span><br><span class="line">hexo generate #生成静态页面至public目录</span><br><span class="line">hexo server #开启预览访问端口（默认端口4000，'ctrl + c'关闭server）</span><br><span class="line">hexo deploy #部署到GitHub</span><br><span class="line">hexo help  # 查看帮助</span><br><span class="line">hexo version  #查看Hexo的版本</span><br></pre></td></tr></tbody></table></figure><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具软件入坑 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>my first-blog</title>
+      <link href="/2019/11/11/my-first-blog/"/>
+      <url>/2019/11/11/my-first-blog/</url>
+      
+        <content type="html"><![CDATA[<p>##today is 11.11.I establish a website.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>建站记录</title>
+      <link href="/2019/11/11/jian-zhan-ji-lu/"/>
+      <url>/2019/11/11/jian-zhan-ji-lu/</url>
+      
+        <content type="html"><![CDATA[<p>##记录一下这次建站历程</p><p>其实这并不是我第一次使用hexo+GitHub建立博客了。半年前就早有打算，也确实建成了，但还很简陋，许多配置都还不全，后来想改个主题，结果彻底搞崩了。就又重新搭建了新的博客。</p><p>新博客是11月11日搭好并开始运行的（-·-），总体来说，完成度还算令人满意，毕竟这是第二次了嘛，然后简单配置了一下。在这里首先要感谢开发本网页主题的大佬，有了主题，就显得好看多了，不必再用那个丑丑的默认页面了。</p><p>网站刚刚起步，还没怎么开始写文章，后面会慢慢补上，主要写一些学习笔记，读书摘要，个人日志等。同时，等网站文章多了之后会考虑把域名传播出去，增加知名度，吸引志同道合的小伙伴，更是一个虚心学习的机会。</p><p>其实也并没有想要写些什么，脑子有点乱，明天还得考大物，马原论文还得赶，就先这样吧！</p><p>：smile：</p><p>测试一下添加网易云音乐外链</p><div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=32098468&amp;auto=1&amp;height=66"></iframe></div>2019.11.27  我又来了，这个网站真是要把我搞晕了，最近是实在是太多了。大概有十天没更新了。  最近根据其他大神的博客又进行了一些博客优化，增加了相册菜单栏，博客评论与留言聊天也都加进来了，想往主页加个音乐播放功能（实在没找到好的音乐链接查找工具，过两天再说八），看别人的博客有读书、电影菜单栏，就想自己也搞一个，弄了好久没搞成，就只能先搁那了。  后续功能应该不会再增加了，毕竟博客更重要的是内容而不是外表（虽然这是人们的第一印象）。  <p>对于后期博客的更新安排，以下是初步计划：  </p><p>1.至少保证 博客周更<br>2.尽量自己手写文章<br>3.做好备份与记录工作<br>4.找时间把博客挂到服务器上，老在GitHub上也不是长久之计<br>5.作为读书记录平台，督促自己不断学习<br>6.增加一个分类作为个人日记,记录成长的点滴<br>7.本博客应作为长久使用(至少5年)<br>8.本博客暂不分享给他人网址(建站一周年会考虑开放,见谅)  </p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> -记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -建站 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>读书报告</title>
+      <link href="/2019/05/26/du-shu-bao-gao/"/>
+      <url>/2019/05/26/du-shu-bao-gao/</url>
+      
+        <content type="html"><![CDATA[<p>####前言<br>  搭建这个网站本来也不是要干多专业的事，纯粹作为自己的一片小天地，写点自己此时所看，所闻，所想。也不在乎别人的看法，只是做些自己喜欢的事而已。所以这篇blog就作为我读书报告的开始，由此记录下自己一点一滴的变化。<br>##<strong>写读书笔记的初衷</strong><br>    我写读书报告是有受B站一些优秀的UP主的影响。我觉得人都是想往好的方向发展，看到他们身上透露出来的不俗的气质和独特的魅力，我总觉得我也应该成为他们那样的人。</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>   由于当下处在大学一年级，作为一名工科学生，大部分时间都交给了学业。我无法像那些读书UP主那样，每个月都读五六本书，我给自己立下的是每月两本书的Flag，希望我能完成这个目标，守住这面旗帜。</p><blockquote><p>你的眼睛里藏着你走过的路，读过的书，和爱过的人。</p></blockquote><h2 id="本篇将介绍我最近读的两本书："><a href="#本篇将介绍我最近读的两本书：" class="headerlink" title="##本篇将介绍我最近读的两本书："></a>##本篇将介绍我最近读的两本书：</h2><p>  《我的团长我的团》 和《妞妞 - 一个父亲的札记》</p><h4 id="part-1"><a href="#part-1" class="headerlink" title="part 1"></a>part 1</h4><p>简介<br> 《我的团长我的团》是由电视剧改编而来的小说，讲述的是1944年抗日战争进入最后时期，在滇边与缅甸交界处一支中国远征军的故事。<br>   其实，我目前只是看完了43集的电视剧，小说看了大概三五章，但却已经被这部神作所折服。</p><p>  《团长》这部剧在豆瓣上处于9.0分的极高水准，很多人称它为“中国最好看的抗战电视剧，没有之一”。确实，我们看到了太多的抗日神剧，手撕鬼子，百里神狙···太多与常理违背的剧情出现在电视荧幕上，战争被戏谑，没有了半点敬畏之心，真是的战争绝不是这样的？</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 阅读 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书报告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>读书摘要</title>
+      <link href="/2019/05/23/du-shu-zhai-yao/"/>
+      <url>/2019/05/23/du-shu-zhai-yao/</url>
+      
+        <content type="html"><![CDATA[<p>#This is my fiest bloy.Thank you!<br>*mkk<br>[我在知乎上的一个回答]（<a href="https://www.zhihu.com/question/305507128/answer/567987197）作为我正在努力的方向。" target="_blank" rel="noopener">https://www.zhihu.com/question/305507128/answer/567987197）作为我正在努力的方向。</a><br><a href="https://images.pexels.com/photos/730981/pexels-photo-730981.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" target="_blank" rel="noopener">图片</a><br><a href="https://images.pexels.com/photos/1105189/pexels-photo-1105189.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" target="_blank" rel="noopener">夜空</a><br>本人作为一名大学生暂且不谈高深阔论的东西，以我个人经验来看，以下能力需要尽早拥有。(不一定很多人没有，但我们应该有，最起码应朝这个方向努力)。</p><p>学习能力，这不用多说了吧。大学不比高中，可能高中更多的是刷题，到大学周围很少 有人这么干。（除了学期末的时候） 大多情况 都是完成作业就足够了，参加竞赛除外。这样一来，大把的时间 就空出来了学习一些自己感兴趣的东西，例如PS ,PPT,word,Excel,等等，以后工作可能有用，也不一定都学，<br>悦纳自己，相信未来。我的建议：少和别人比较，悦纳自己，听从内心。任何其他人都只是你人生的局外人，决定怎样的一生要自己亲自谋划。另外，我希望你保有对未来的那份信任，一切都是最好的安排。<br>社交能力。当你到了大学，尤其出了社会，就会发现高情商比起高智商更吃香。天才除外，毕竟大多数人都是普通人，大学学的那点东西很多都是基础，或者说与时代脱轨了。真正的知识是工作中学到的。因此你需要良好的社交能力，它会在以后帮到你不少。<br>抗压能力。年轻人都有压力，但如何处理压力绝对会影响心情。以前老说有压力受委屈了要忍耐，但最好是能够做到化。不要什么事都压下去，要懂得化解。很多事情看开了也就那么一回事，别太在意，心情好点。<br>自控力。这点我也很难传授经验，我承认这确实是我的痛啊。有时候刷刷知乎，看看视频，一上午就过去了。说多了就越感自责。引用一句鸡汤吧：放下手机吧，外面的世界远比虚拟世界美好。（我也在逐渐减少玩手机的时间，希望未来美好(✪▽✪)嘻嘻）。<br>持之以恒的耐力。<br>幽默自嘲。好看的皮囊千篇一律，有趣的灵魂万里挑一。人们总是喜欢和幽默的人相处，而自嘲的人就自带幽默气息。<br>1.有人说:其他的我全懂,就只不懂幽默。我安慰道:不要紧,其他的全不懂也不要紧</p><p>——木心<br>2.不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐</p><p>3.坚持从来就不是一件容易的事。小到每日一个单词，每天一句问候，每夜一声晚安，即便你有十倍于这个的时间去打一局游戏，去追一集影剧，去聊着同事领导长长短短。很多你嫉妒的人生仅仅是每天多一会儿运动，每周多一本书，每年多一门手艺。每一次独自学习的时候，少看十分钟手机罢了。孤单从不会杀死一个人，喧嚣才会。</p><p>4.因为我既不生活在过去，也不生活在未来，我只有现在，它才是我感兴趣的。如果你能永远停留在现在，那你将是最幸福的人。你会发现沙漠里有生命，发现天空中有星星，发现士兵们打仗是因为战争是人类生活的一部分。生活就是一个节日，是一场盛大的庆典，因为生活永远是，也仅仅是我们现在经历的这一刻。——《牧羊少年奇幻之旅》</p><p>5.正如对幸福的寻求是自我欺骗一样，一味追求一颗善的良心只会使我们失去发现它的机会，因为在追求的过程中，我们变成了伪善的人。──《弗兰克尔：意义与人生》</p><p>6.悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。——陶渊明</p><p>7.我喜爱一切不彻底的事物。细雨中的日光，春天的冷，秋千摇碎大风，堤岸上河水游荡。我喜爱一切不彻底的事物。琥珀里的时间，微暗的火，一生都在半途而废，一生都在怀抱热望。——张定浩</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 摘要 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -摘要 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
